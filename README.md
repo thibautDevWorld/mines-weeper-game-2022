@@ -9,7 +9,6 @@ First project mandatory for IronHack Bootcamp. Build a vanilla javaScript little
 ---
 Download all files (app.js, index.html, style.css) in a folder and run index.html on your browser. Refresh your browser when you are winner or game over.
 
-[gitHub repository link] (https://github.com/thibautDevWorld/ironMinesWeeper-game)
 
 
 ## The little story behind
